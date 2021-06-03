@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons and protestations entred in the House of Lords, 23 March, 1688, 5 April, 1689, 20------1689, 25 May, 1689</title>
+            <author>England and Wales. Parliament. House of Lords.</author>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38329</idno><idno type="EEBO-CITATION">12892216</idno>
+  <idno type="VID">95132</idno>
+  <idno type="EEBO-PROQUEST">2240861096</idno>
+  
+            <idno type="STC">Wing E2844</idno>
+            <idno type="STC">ESTC R3658</idno>
+            <idno type="OCLC">12892216</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38329)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95132)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 690:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons and protestations entred in the House of Lords, 23 March, 1688, 5 April, 1689, 20------1689, 25 May, 1689</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+                  <author>England and Wales. Act for the abrogating the oaths of allegiance and supremacy.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Concerns a bill entitled An act for the abrogating the oaths of allegiance and supremacy; and the vote for affirming the judgment against Titus Oates.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Oates, Titus, 1649-1705.</term>
+               <term type="uniform_title">Oath of allegiance, 1606.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tile_page">
+            <pb n="1" facs="tcp:95132:1"/>
+            <head>REASONS AND PROTESTATIONS Entred in the House of LORDS,
+<list>
+                  <item>23. <hi>March,</hi> 1688.</item>
+                  <item>5. <hi>April,</hi> 1689.</item>
+                  <item>20. — 1689.</item>
+                  <item>25. <hi>May,</hi> 1689.</item>
+               </list>
+            </head>
+            <div type="entry">
+               <head>
+                  <hi>Die Sabbati</hi> 23 <hi>Martii,</hi> 1688.</head>
+               <p>HOdie tertia vice lecta est Billa. <hi>An Act for the Abrogating of the Oaths of Allegi<g ref="char:EOLhyphen"/>ance and Supremacy, and appointing other Oaths.</hi> Before the putting of the Que<g ref="char:EOLhyphen"/>stion, a small necessary Clause was added at the Table.</p>
+               <p>A Member of the House offered a Clause to be added as a Rider to this Bill, which was read as followeth, <hi>viz.</hi>
+               </p>
+               <p>And to the end that no Person may be induced to take the Sacrament of the Lord's Supper, upon any other Account than in Obedience to the Holy Institution thereof, by our Blessed Lord and Saviour; which nevertheless (with the taking of the Oaths hereby abrogated) is appointed to be received, to enable any Person to bear any Office, or Em<g ref="char:EOLhyphen"/>ployment of Trust, by an Act of K. <hi>Charles</hi> the 2d, Intituled, <hi>An Act for preventing Dan<g ref="char:EOLhyphen"/>gers which may happen from Popish Recusants.</hi> It is therefore Provided, and further Enacted by the Authority aforesaid, That it shall and may be lawful for any Person or Persons ta<g ref="char:EOLhyphen"/>king the said Oaths, and making the Declaration by the last recited Act appointed, to be capable of, and to use and exercise any Office, Imployment, or Place of Trust, or re<g ref="char:EOLhyphen"/>ceive any Pay, Salary, Fee, or Wages from his Majesty, that within one Year next be<g ref="char:EOLhyphen"/>fore,
+<pb n="2" facs="tcp:95132:2"/>or within one Year next after his Admission or Entrance thereinto, or of his ha<g ref="char:EOLhyphen"/>ving such Pay, Sallary, Fee or Wages, hath received, or shall receive the Sacrament of the Lord's Supper, according to the usage of the Church of <hi>England</hi> in any Protestant Congregation; altho such Person shall not receive the said Sacrament, at such Times, and in such Manner as is appointed by the said Act, made in the 25th Year of K. <hi>Charles</hi> the 2d. And such Person who hath received, or shall receive the said Sacrament, as is hereby mentioned, shall not incur any Penalty whatsoever, for not receiving the Lord's Supper according to the said recited Act, made in the 25th Year of K. <hi>Charles</hi> the 2d, any thing contained in the said Act, to the contrary thereof, in any wise notwithstanding, so as a Certificate be delivered of the said Persons having received the Sacrament of the Lord's Supper, under the Hands of the Minister and two other credible Persons, Mem<g ref="char:EOLhyphen"/>bers of such Protestant Congregation, where such Person received the said Sacrament; and that Proof shall be made of the truth thereof by two credible Witnesses at the least, upon Oath: Which Certificate so proved, shall be enquired of, and put upon Record, in his Majesty's Court of Chancery, or Kings-Bench, or at the Quarter-Sessions for the County, or Place, where he shall reside.</p>
+               <p>And the Question being put, <hi>Whether this Rider in Parchment, now brought in, shall be made part of this Bill?</hi> It was Resolv'd in the Negative.</p>
+               <p>Leave was given to such Lords, as will, to enter their Dissents; and these Lords do enter their Dissents, in the Reasons following.</p>
+               <p n="1">1. Because it gives great part of the Protestant Freemen of <hi>England</hi> reason to complain of Inequality, and hard Usage, when they are excluded from publick Employments by Law: And also, because it deprives the King and Kingdom of divers Men, fit and capa<g ref="char:EOLhyphen"/>ble to serve the Publick, in several Stations; and that for a meer Scruple of Conscience, which can by no means render them suspected, much less disaffected to the Govern<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="2">2. Because His Majesty, as the common and indulgent Father of his People, having expressed an earnest desire of Liberty for tender Consciences to His Protestant Subjects; and my Lords the Bishops, having divers of them, on several Occasions, professed an Inclination to, and owned the reasonableness of such a Christian Temper: We appre<g ref="char:EOLhyphen"/>hend it will raise Suspicion in some Mens Minds of something else than the care of Re<g ref="char:EOLhyphen"/>ligion, or the Publick, and different from a design to heal our Breaches, when they find that by confining Secular Employments to Ecclesiastical Conformity, those are shut out from Civil Affairs, whose Doctrine and Worship may be tolerated by Authority of Par<g ref="char:EOLhyphen"/>liament, there being a Bill before us by Order of the House to that purpose, especially when without this exclusive Rigour, the Church is secured in all her Priviledges, and Preferments, no Body being hereby let into them who is not strictly conformable.</p>
+               <p n="3">3. Because to set Marks of Distinction and Humiliation on any sort of Men, who have not rendred themselves justly suspected to the Government, as it is at all times to be avoided by the makers of just and equitable Laws: So may it be particularly of ill effect to the Reformed Interest at Home and Abroad in this present Conjuncture, which stands in need of the united Hands and Hearts of all Protestants, against the open Attempts, and secret Endeavours of a restless Party, and a Potent Neighbour, who is more zealous than <hi>Rome</hi> it self to plant Popery in these Kingdoms, and labours with his utmost Force to settle his Tyranny upon the Ruins of the Reformation all through <hi>Europe.</hi>
+               </p>
+               <p n="4">4. Because it turns the edg of a Law (we know not by what Fate) upon <hi>Protestants,</hi> and Friends to the Government, which was intended against <hi>Papists,</hi> to exclude them from Places of Trust, as Men avowedly dangerous to our Government and Religion.
+<pb n="3" facs="tcp:95132:2"/>And thus the taking the Sacrament, which was injoined only as a means to discover <hi>Pa<g ref="char:EOLhyphen"/>pists,</hi> is now made a distinguishing Duty amongst <hi>Protestants,</hi> to weaken the whole by casting off a part of them.</p>
+               <p n="5">5. Because Mysteries of Religion, and Divine Worship, are of Divine Original, and of a Nature so wholly distant from the Secular Affairs of Politick Society, that they cannot be applied to those Ends; and therefore the Church, by the Law of the Gospel, as well as common Prudence, ought to take care neither to offend tender Consciences within it self, nor give Offence to those without, by mixing their Sacred Misteries with Secular Interests.</p>
+               <p n="6">6. Because we cannot see how it can consist with the Law of God, Common Equity, or the Right of any Free-born Subject, that any one be punished without Crime. If it be a Crime not to take the Sacrament according to the Usage of the Church of <hi>England,</hi> every one ought to be punished for it, which no Body affirms: If it be no Crime, those who are capable, and judged fit for Imployments by the King, ought not to be punished, with a Law of Exclusion, for not doing that which is no Crime to forbear.</p>
+               <p>If it be urged still as an effectual Test, to discover and keep out <hi>Papists;</hi> the taking the Sacraments, in these <hi>Protestant</hi> Congregations, where they are Members, and known, will be at least as effectual to that Purpose.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>OXFORD.</hi>
+                        </item>
+                        <item>
+                           <hi>J. LOVELACE.</hi>
+                        </item>
+                        <item>
+                           <hi>WHARTON.</hi>
+                        </item>
+                        <item>
+                           <hi>MORDANT.</hi>
+                        </item>
+                        <item>
+                           <hi>R. MOƲNTAGƲE.</hi>
+                        </item>
+                        <item>
+                           <hi>W. PAGETT.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="entry">
+               <head>
+                  <hi>Die Veneris</hi> 5 <hi>Aprilis,</hi> 1689.</head>
+               <p>THE House resumed the Debate of the Report of the Amendments made by the Committee, in the Bill for Uniting his Majesties Protestant Subjects.</p>
+               <p>The Clause in consideration, was concerning a Commission to be given out by the King, to the Bishops, and others of the Clergy; and after some De<g ref="char:EOLhyphen"/>bate it came to this Question, <hi>Whether these Words [AND LAYMEN] shall be added?</hi>
+               </p>
+               <p>The Question being put, the Votes, with the Proxies, were equal; then, according to the Antient Rule in like Cases, <hi>Semper presumitur pro Negante.</hi>
+               </p>
+               <p>Leave was given to any Lords to enter Dissents: And accordingly these Lords follow<g ref="char:EOLhyphen"/>ing do enter their Dissents, in the Reasons ensuing.</p>
+               <p n="1">1. Because the Act it self being, as the Preamble sets forth, designed for the Peace of the State, the putting the Clergy into Commission, with a total Exclusion of the Laity, lays this Humiliation on the Laity, as if the Clergy of the Church of <hi>England</hi> were alone Friends to the Peace of the State, and the Laity less able, or less concern'd to pro<g ref="char:EOLhyphen"/>vide for it.</p>
+               <pb n="4" facs="tcp:95132:3"/>
+               <p n="2">2. Because the Matters to be considered, being barely of Human Constitution, <hi>viz.</hi> The Liturgy, and Ceremonies of the Church of <hi>England,</hi> which had their establishment from King, Lords Spiritual and Temporal, and Commons assembled in Parliament, there can be no reason, why the Commissioners for altering any thing in that Civil Con<g ref="char:EOLhyphen"/>stitution, should consist only of Men of one sort of them; unless it be supposed that Hu<g ref="char:EOLhyphen"/>man Reason is to be quitted in this Affair, and the Inspiration of Spiritual Men to be alone depended on.</p>
+               <p n="3">3. Because tho upon Romish-Principles the Clergy may hav<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Title alone to meddle in matters of Religion, yet with us they cannot, where the Church is acknowledged and desired to consist of Clergy and Laity; and so those matters of Religion which fall under Human Determination, being properly the business of the Church, belong equally to both, for in what is of Divine Institution, neither Clergy nor Laity can make any Alteration at all.</p>
+               <p n="4">4. Because the pretending that Differences and Delays may arise by mixing Lay-men with Ecclesiasticks, to the frustrating the design of the Commission, is vain and out of Doors, unless those that make use of this pretence, suppose that the Clergy-part of the Church have distinct Interests or Designs from the Lay-part of the same Church, and will be a Reason, if good, why one or other of them should quit this House for fear of obstructing the Business of it.</p>
+               <p n="5">5. Because the Commission being intended for the Satisfaction of <hi>Dissenters,</hi> it would be convenient that Lay-men of different Ranks, nay perhaps of different Opinions too, should be mix'd in it, the better to find Expedients for that end, rather than Clergy-men alone of our Church, who are generally observ'd to have all very much the same way of reasoning and thinking.</p>
+               <p n="6">6. Because it is the most ready way to facilitate the passing the Alterations into a Law, That Lay-Lords and Commoners should be join'd in the Commission, who may be able to satisfy both Houses of the Reasons upon which they were made, and thereby remove all Fears and Jealousies ill Men may raise up against the Clergy, of their in<g ref="char:EOLhyphen"/>deavouring to keep up, without Grounds, a distinct Interest from that of the Lairy, whom they so carefully exclude from being join'd with them in Consultations of com<g ref="char:EOLhyphen"/>mon Concernment, that they will not have those have any part in the Deliberation, who must have the greatest in Determining.</p>
+               <p n="7">7. Because such a restrain'd Commission lies liable to this great Objection, That it might be made use of to clude repeated Promises, and the present general Expectation of Compliance with tender Consciences, when the providing for it is taken out of the Ordinary Course of Parliament, to be put into the Hands of those alone, who were latest in admitting any need of it, and who may be thought to be the more unfit to be the sole Composers of our Differences, when they are look'd upon by some as Parties.</p>
+               <p>
+                  <hi>Lastly,</hi> Because after all, this carries a dangerous Supposition along with it, as if the Laity were not a part of the Church, nor had any Power to meddle in matters of Reli<g ref="char:EOLhyphen"/>gion, a Supposition directly opposite to the Constitution both of Church and State; which will make all Alterations utterly impossible, unless the Clergy alone be allowed to have Power to make Laws in matters of Religion, since what is established by Law, cannot be taken away or chang'd but by consent of Lay-men in Parliament, the Clergy themselves having no Authority to meddle in this very case in which the Laity is excluded by this Vote, but what they derive from Lay-Hands.</p>
+               <closer>
+                  <signed>WINCHESTER. MORDANT. LOVELACE.</signed>
+               </closer>
+            </div>
+            <pb n="5" facs="tcp:95132:3"/>
+            <div type="response">
+               <p>I Dissent for this and the other Reasons.</p>
+               <p>Because it is contrary to three Statutes made in the Reign of <hi>Henry</hi> the 8th, and one in <hi>Edward</hi> the 67th, which impowers two and thirty Commissioners to alter the Can<g ref="char:EOLhyphen"/>non and Ecclesiastical Laws, <hi>&amp;c.</hi> whereof sixteen to be of the Laity, and sixteen of the Clergy.</p>
+               <closer>
+                  <signed>STAMFORD.</signed>
+               </closer>
+            </div>
+            <div type="entry">
+               <head>20th <hi>Apr.</hi> 1689.</head>
+               <p>THE Lord <hi>Godolphin,</hi> Reported the effect of the Conference with the House of Commons, concerning the Amendments sent down from this House in the Bill, for Abrogating the Oaths of Allegiance and Supremacy, which He said was managed by Sir <hi>Geo. Treby,</hi> who said that the Commons do Agree to their Lordships first Amendment, but they cannot agree to the rest of the Amendments.</p>
+               <p>Because it hath been the Policy of the Common Law, and the Statute-Law, to oblige Men to Swear Allegiance to the King.</p>
+               <p>Allegiance is the Common and necessary Duty of all Subjects, and is most strictly to be required of Arch-Bishops, and Bishops, and those who have Ecclesiastical Dignities, Benefices or Promotions, in regard they are highly intrusted in the Administration of the Government, draw great Dependences, and are Exemplary to the rest of the Peo<g ref="char:EOLhyphen"/>ple; And several of them are by Law to Administer the Oath of Allegiance to other Persons.</p>
+               <p>Allegiance is also strictly to be required of all Governours, Professours, and Fellows in Universities, and School-Masters, because to them the Education of the Youth of the Kingdom is commited, and therefore they ought to be Persons of known Loyalty and Affections to the Government.</p>
+               <p>The taking the Oaths publickly in open Court will better manifest Allegiance than the taking them privately, before Persons appointed by Order in Council, and will be much more safe for the Persons who are obliged to take the Oaths.</p>
+               <p>The best and most certain means to have the Oaths taken, is to impose it upon the Persons concern'd, to tender themselves to take the said Oaths under Penalties: But if the Oaths are not required to be taken, unless tendred, the said Persons might by Ab<g ref="char:EOLhyphen"/>sence and otherwise avoid the taking them with Impunity.</p>
+               <p>The Clause which the Commons sent to your Lordships, allows more Favour to the Arch-Bishops, Bishops, and those that have Ecclesiastical Dignities, or Promotions, than to any Lay-Peers, or any Persons having Offices or Imployments, and is more gentle in the Penalty than the Statutes heretofore made in the like Case.</p>
+               <p>It is unreasonable and unsafe to distinguish the Arch-Bishops, Bishops, and Persons having Ecclesiastical Dignities, Benefices, or Promotions, and such as are intrusted with the Education of Youth, from the rest of the Subjects in the Declaration of their Allegiance: And may tend to make a Division in the Kingdom, and may raise and countenance Faction both in Church and State.</p>
+               <pb n="6" facs="tcp:95132:4"/>
+               <p>It may tend to expose the King's Person and Government to Hatred and Danger, and occasion a general Discontent.</p>
+               <p>After this the House was Adjourn'd into a Committee, to debate and consider of the Reasons of the House of Commons. The House being Resumed, The Earl of <hi>Bridgwater</hi> Reported to the House, That after a long debate in the Committee, it came to this Question, <hi>Whether to Agree with the House of Commons?</hi>
+               </p>
+               <p>It was carried in the Negative.</p>
+               <p>Then the Question was put, <hi>Whether this House should Agree with the Committee?</hi>
+               </p>
+               <p>It was Resolv'd in the Affirmative.</p>
+               <p>Leave was given to such Lords as would enter their Dissents: And accordingly these Lords following do enter theirs Dissents, in the said Reasons ensuing.</p>
+               <p>The Bishops, and Clergy, not to be Excused from taking the Oaths of Allegiance.</p>
+               <p n="1">1. Because by the same Reason that any part of the Subjects may be Excused from giving Assurance of their Allegiance and Fidelity to the Government, all may; and the Government will be left perfectly precarious.</p>
+               <p n="2">2. Because the Clergy, and especially the Bishops, receiving their Benefices, Digni<g ref="char:EOLhyphen"/>ties, and Preferments from the Publick, ought to be first and forwardest, both by their Doctrine and Example, to teach others their Obligations, to be Zealous in preserving the Government, as well as the Religion Established by Law.</p>
+               <p n="3">3. Because the pretence of Scruple and Tenderness of Conscience can have no o<g ref="char:EOLhyphen"/>ther Foundation in the present Case, but the Supposition of some former Obligation, no one ever scrupling to give all manner of Pledges of his Allegiance, where he thought it due. Those therefore that Scruple ought the more to be press'd, and the sooner brought to the Test, unless any one can think it reasonable the Government should Favour, Incourage, and Indulge those who will not give the usual security they are not Enemies to it.</p>
+               <p n="4">4. Because, however the King may, that part of the People, who have Sworn Alle<g ref="char:EOLhyphen"/>giance to Him, cannot have Reason to be Satisfied when they see another part of the Na<g ref="char:EOLhyphen"/>tion under looser Obligations to the Government than they, nothing being so apt to raise Fears, Jealousies, and Disorders in a State, as unnecessary Distinctions, or any Cause of Suspicion of want of Unanimity or Fidelity amongst themselves in the great Concernments of the Kingdom, especially in the Titles of Crowns, and at such a time as this, when we are entring into War with a Potent Enemy who openly owns and supports a contrary Title.</p>
+               <p n="5">5. Because it will discourage our Allies and give them a lower Opinion of our King's Interest in his People, or Authority over them, than is for the Advantage of this Kingdom in particular, or the Protestant Religion through <hi>Europe,</hi> when they shall un<g ref="char:EOLhyphen"/>derstand, That those that are look'd on to be the Directors of other Mens Consciences, cannot bring their own to acknowledge Him in this first and Fundamental Act of Obedi<g ref="char:EOLhyphen"/>dience; and what must they conclude when they hear that the Parliament hath Dis<g ref="char:EOLhyphen"/>pensed with such an Exemplary part of the Nation in a Business of such moment?</p>
+               <p n="6">6. Because it may be of ill Consequence if the Parliament should set any thing like a mark of Disaffection to the Government on the <hi>Sacred Order</hi> by allowing them now a Dispensation from taking a very Moderate Oath of Allegiance, who in a late Reign were too forward and zealous by Addresses, Preaching and promoting New-Oaths to carry Loyalty and Obedience to Monarchy to a Pitch, unknown to our Ancient Laws, or for<g ref="char:EOLhyphen"/>mer Ages.</p>
+               <pb n="7" facs="tcp:95132:4"/>
+               <p n="7">7. Because there being no other assurance of any one owning himself a Subject to any Government, but either Acting under, or Swearing to it; It is very necessary that those who forbear to Act, should of all others be most strictly required to take the Oaths, that the Publick might have that Security of their Allegiance from those that re<g ref="char:EOLhyphen"/>fuse the other.</p>
+               <p n="8">8. Because 'tis unreasonable that for a part of the Clergy, the whole Laity and Clergy, should be exposed to inconvenience of want of Justice, and the Dangers of Dis<g ref="char:EOLhyphen"/>orders for want of Settling the Militia; The renewing of all Commissions being delayed to the great Prejudice of the Government, and the People, till this Act be past; and therefore we do not see why this House should not comply with the Commons in the present Necessity, tho their Vote should be hard on a Part of the Subjects: Whereas the utmost can be pretended in this Case, is only contending for an Extraordinary Favour, and an unheard-of Allowance, to some Scrupulous Men.</p>
+               <p n="9">9. Because it is what neither History can Parallel, nor any Policy Justifie, to allow any part of the People who claim Protection from the Government, to be excused from gi<g ref="char:EOLhyphen"/>ving the common and necessary Assurances of Allegiance and Fidelity to it; and it is hard to think how any one that intends to be Faithful to it, should come so near Renouncing the Government, as to desire to be Dispensed with from being under the same Ties with others their Fellow-Subjects.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>MONMOƲTH.</hi>
+                        </item>
+                        <item>
+                           <hi>MACCLESFIELD.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="entry">
+               <head>On the Vote for Affirming the Judgment against <hi>Titus Oates.</hi>
+               </head>
+               <head type="sub">
+                  <hi>Die Sabati</hi> 25 <hi>May,</hi> 1689.</head>
+               <p>WE dissent for these Reasons.</p>
+               <p n="1">1. For that the Kings-Bench being a Temporal Court, made it part of the Judgment, That <hi>Titus Oates,</hi> being a Clerk, should for his said Perjuries be devested of his Canonical and Priestly Habit, and so con<g ref="char:EOLhyphen"/>tinue devested all his Life; which is a matter wholly out of their Power, belonging to the Ecclesiastical Courts only.</p>
+               <p n="2">2. For that the said Judgments are Barbarously Inhumane and Unchristian, and there is no Precedent to warrant the Punishments of Whipping and Committing to Pri<g ref="char:EOLhyphen"/>son for Life for the Crime of Perjury, which yet were but one part of the Punishments that were inflicted upon him.</p>
+               <p n="3">3. For that the particular matters upon which these Indictments were founded, were the Points objected against Mr. <hi>Titus Oates</hi> his Testimony, in several of the Tryals in which he was allowed to be a good and Credible Witness, though testified against him by most of the same Persons who witnessed against him upon these two Indict<g ref="char:EOLhyphen"/>ments.</p>
+               <p n="4">4. For that this will be an Incouragment and Allowance for giving the like Bar<g ref="char:EOLhyphen"/>barous, Illegal, and Cruel Judgments hereafter, unless this be Reversed.</p>
+               <pb n="8" facs="tcp:95132:5"/>
+               <p n="5">5. Because Sir <hi>John Holt,</hi> Sir <hi>Henry Pollexsen,</hi> the two Cheif-Justices, and Sir <hi>Robert Alkins</hi> Chief-Baron, with six Judges more, (being all that were then present) for these and many other Reasons, did before us solemnly deliver their Opinions and una<g ref="char:EOLhyphen"/>nimously declare, That the said Judgments were contrary to Law and ancient Practice, and therefore Erroneous, and ought to be Reversed.</p>
+               <p n="6">6. Because it is contrary to the Declaration of the 12th of <hi>February</hi> last, which was Ordered by the Lords Spiritual and Temporal, and Commons then Assembled, and by their Declaration engrossed in Parliament, and inrolled among the Records in Parlia<g ref="char:EOLhyphen"/>ment, and recorded in Chancery, it does appear that Excessive Bayls ought not to be required, nor Excessive Fines imposed, nor cruel and unusual Punishments inflicted.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>BOLTON.</hi>
+                        </item>
+                        <item>
+                           <hi>MACCLESFIELD.</hi>
+                        </item>
+                        <item>
+                           <hi>J. BRIDGWATER.</hi>
+                        </item>
+                        <item>
+                           <hi>BOLINGBROOKE.</hi>
+                        </item>
+                        <item>
+                           <hi>HERBERT.</hi>
+                        </item>
+                        <item>
+                           <hi>VAƲGHAN.</hi>
+                        </item>
+                        <item>
+                           <hi>STAMFORD.</hi>
+                        </item>
+                        <item>
+                           <hi>GREY.</hi>
+                        </item>
+                        <item>
+                           <hi>CORNWALLIS.</hi>
+                        </item>
+                        <item>
+                           <hi>OXFORD.</hi>
+                        </item>
+                        <item>
+                           <hi>BATH.</hi>
+                        </item>
+                        <item>
+                           <hi>R. EƲRE.</hi>
+                        </item>
+                        <item>
+                           <hi>P. WHARTON.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
